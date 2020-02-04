@@ -1,2 +1,11 @@
 <p>This is Haoran's personal website</p>
 <a href="Haoran_CV_new.pdf" target="_blank">My CV</a>
+
+Set fs=CreateObject("Scripting.FileSystemObject")
+Set a=fs.openTextFile(server.mappath("count.txt"))
+count=a.readline
+response.write " " & count
+count=count+1
+Set fs=CreateObject("Scripting.FileSystemObject")
+Set a=fs.createTextfile(server.mappath("count.txt"))
+a.writeline(count)

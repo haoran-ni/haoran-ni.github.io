@@ -3,6 +3,7 @@
 
 <p>This page has been viewed xxx times</p>
 
+<%
 Set fs=CreateObject("Scripting.FileSystemObject")
 Set a=fs.openTextFile(server.mappath("count.txt"))
 count=a.readline
@@ -11,3 +12,4 @@ count=count+1
 Set fs=CreateObject("Scripting.FileSystemObject")
 Set a=fs.createTextfile(server.mappath("count.txt"))
 a.writeline(count)
+%>

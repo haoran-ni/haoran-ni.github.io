@@ -1,0 +1,10 @@
+@article{huguenin2023physics,
+  title={Physics-Inspired Equivariant Descriptors of Nonbonded Interactions},
+  author={Huguenin-Dumittan, Kevin K and Loche, Philip and Haoran, Ni and Ceriotti, Michele},
+  journal={The Journal of Physical Chemistry Letters},
+  volume={14},
+  number={43},
+  pages={9612--9618},
+  year={2023},
+  publisher={ACS Publications}
+}

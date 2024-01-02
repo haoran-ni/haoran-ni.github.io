@@ -1,0 +1,32 @@
+main:
+
+  - title: Machine Learning of the Dispersion Interaction in Phosphorus
+    authors: Haoran Ni (<span>Supervisor:</span> <a href="https://scholar.google.com/citations?user=exWw7d0AAAAJ&hl=en&oi=ao">Prof. Michele Ceriotti</a>)
+    journal_short:
+    journal: Master Thesis at EPFL, 2022
+    pdf: ./assets/files/Master_thesis__COSMO_.pdf
+    code: https://github.com/haoran-ni/MasterThesis
+    bibtex: 
+    image: ./assets/img/master_thesis_image.png
+    notes: 
+
+  - title: Observation of spin-orbit magnetoresistance in CoFeB/heavy metal/MgO with existence of both spin Hall effect and Edelstein effect
+    authors: <strong>Haoran Ni</strong>, Shuangfeng Li, Qihan Zhang, Jiguang Yao, Yongwei Cui, Xiaolong Fan*, Desheng Xue
+    journal_short:
+    journal: Bachelor Thesis at LZU, 2020
+    pdf: https://arxiv.org/abs/1909.12811
+    code: 
+    bibtex: ./assets/files/bachelor_thesis_bibtex.txt
+    image: ./assets/img/bachelor_thesis_image.png
+    notes: 
+
+  # - title: 
+  #   authors: 
+  #   journal_short: 
+  #   journal: 
+  #   pdf: 
+  #   code: 
+  #   page: 
+  #   bibtex: 
+  #   image: 
+  #   notes: 

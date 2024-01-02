@@ -1,0 +1,6 @@
+@article{ni2019observation,
+  title={Observation of spin-orbit magnetoresistance in CoFeB/heavy metal/MgO with existence of both spin Hall effect and Edelstein effect},
+  author={Ni, Haoran and Li, Shuangfeng and Zhang, Qihan and Yao, Jiguang and Cui, Yongwei and Fan, Xiaolong and Xue, Desheng},
+  journal={arXiv preprint arXiv:1909.12811},
+  year={2019}
+}

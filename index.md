@@ -27,7 +27,7 @@ Hobbies: &#x1F3F4;&#x200D;&#x2620;&#xFE0F; OnePiece, &#x1F3B8; Music, &#x26BD; S
 
 - **[Dec. 19th 2024]** &nbsp; I will be the TA for *Quantum Mechanics of Materials* next semester, whether or not I am in my office remains a quantum state until you actually show up during office hours.
 
-- **[Dec. 18th 2024]** &nbsp; I passed the ITA language test with a certification of *Strong Proficiency*.
+- **[Dec. 18th 2024]** &nbsp; I passed the ITA language test with the highest certification of *Strong Proficiency*.
 
 - **[Dec. 9th 2024]** &nbsp; I passed my qualification exam!
 

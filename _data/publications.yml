@@ -1,7 +1,17 @@
 main:
 
+  - title: Open Molecular Crystals 2025 (OMC25) Dataset and Models
+    authors: Vahe Gharakhanyan, Luis Barroso-Luque, Yi Yang, Muhammed Shuaibi, Kyle Michel, Daniel S. Levine, Misko Dzamba, Xiang Fu, Meng Gao, Xingyu Liu, <strong>Haoran Ni</strong>, Keian Noori, Brandon M. Wood, Matt Uyttendaele, Arman Boromand, C. Lawrence Zitnick, Noa Marom, Zachary W. Ulissi, Anuroop Sriram
+    journal_short: arXiv
+    journal: arXiv preprint arXiv:2508.02651, 2025
+    pdf: https://arxiv.org/abs/2508.02651
+    code: 
+    bibtex: ./assets/files/OMC25_paper_bibtex.txt
+    image: ./assets/img/OMC25_paper_image.png
+    notes: 
+
   - title: Physics-Inspired Equivariant Descriptors of Nonbonded Interactions
-    authors: Kevin K. Huguenin-Dumittan, Philip Loche, <strong>Ni Haoran</strong>, and Michele Ceriotti*
+    authors: Kevin K. Huguenin-Dumittan, Philip Loche, <strong>Ni Haoran</strong>, and Michele Ceriotti
     journal_short: JPCL
     journal: The Journal of Physical Chemistry Letters, 2023
     pdf: https://pubs.acs.org/doi/epdf/10.1021/acs.jpclett.3c02375

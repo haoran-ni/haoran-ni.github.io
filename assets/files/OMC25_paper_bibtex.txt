@@ -1,0 +1,6 @@
+@article{gharakhanyan2025open,
+  title={Open Molecular Crystals 2025 (OMC25) Dataset and Models},
+  author={Gharakhanyan, Vahe and Barroso-Luque, Luis and Yang, Yi and Shuaibi, Muhammed and Michel, Kyle and Levine, Daniel S and Dzamba, Misko and Fu, Xiang and Gao, Meng and Liu, Xingyu and others},
+  journal={arXiv preprint arXiv:2508.02651},
+  year={2025}
+}
